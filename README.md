@@ -6,7 +6,8 @@ this is a 2 program .
 
 If u want to play 2 file python, use 2songsong.python
 
-![Alternative Text](dataset\2songpic.png)
+<img src="dataset\2songpic.png" alt="Alternative Text" width="2000">
+
 
 <h2> How TO PLAY</h2>
 
